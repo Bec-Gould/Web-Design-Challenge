@@ -1,0 +1,50 @@
+
+
+h2 {
+    color: #4aaaa5;
+    padding: 10px;
+    margin-top: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 900;
+    border-bottom: 1px solid currentColor;
+}
+
+
+.Lat-heading {
+    color: white !important;
+    background-color: #4AAAA5;
+    padding: 5px;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 900;
+}
+
+/* .visual-box {
+    align-content: space-evenly;
+} */
+
+body {
+    background-color: lightgrey;
+    margin: 0px;
+}
+
+.margin-top {
+    margin-top: 60px;
+}
+
+.white {
+    background-color: white;
+}
+
+.float-left {
+    float: left    
+}
+
+.nav-margin {
+    margin: 0px;
+}
+
+.col-padding {
+    margin: 10px;
+    color: lightgrey;
+}
