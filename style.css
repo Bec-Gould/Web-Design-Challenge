@@ -41,20 +41,6 @@ h3 {
     padding: 70px
 }
 
-/* .align-tab {
-    text-align: center;
-    padding: 10px;
-} */
-
-/* .center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- } */
-
-/* .visual-box {
-    align-content: space-evenly;
-} */
 
 body {
     background-color: lightgrey;
@@ -95,33 +81,13 @@ body {
       background: purple;
     } */
 
+    /* .navbar-light {
+        background-color: pink;
+    } */
+
+ 
     /* .navbar {
         background-color: purple;
     } */
   
-    /* .box-2 {
-    background: yellow;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    border: solid 2px black;
-    } */
-  
-    /* .box-3 {
-      display: none;
-    } */
-  
-    /* .box-4 {
-      transform: rotate(360deg);
-      transition: transform 0.5s ease-in;
-    } */
-  
-    /* .box-5 {
-      width: 0;
-      height: 0;
-      border-left: 50px solid transparent;
-      border-right: 50px solid transparent;
-      border-bottom: 100px solid red;
-      background: none;
-      margin-left: 300px;
-    }
+ 
